@@ -1,4 +1,4 @@
- Hi, I’m Daniil 👋
+ Hi, I’m Daniil from Canada 👋
 
 In the past 5 years I worked on various website and project, mainly with React, Next.js, Gatsby, Prismic, Strapi, GraphQL, Node.js/Express, MongoDB and Angular.
 
